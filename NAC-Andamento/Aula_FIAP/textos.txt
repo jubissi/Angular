@@ -1,0 +1,71 @@
+_HOME
+*** BANNER
+	SISTEMAS PARA INTERNET
+	Neste curso, você vai trabalhar com Front-end (HTML5, CSS3, entre outros) 
+	com foco em UX, Desenvolvimento Mobile (Android, IOS e HTML5), Gestão de Negócios, Tratamento de Imagens e 
+	Gerenciamento de Plataformas Digitais. Vai ser estimulado a empreender e criar sua própria Startup, 
+	por meio da vivência e do estudo de casos reais.
+	
+**** CAIXAS
+	HTML5
+	Aplicação de Padrões Web, XHTML5 (padrão W3C), CSS, Javascript e sistemas Web centrados em User Experience.
+
+	Desenvolvimento Mobile 
+	Desenvolvimento de apps para dispositivos móveis Apple utilizando storyboard, UIKit, MVC, protocolos, requisições HTTP, JSON, persistência e mapas nas linguagens Obj-C e Swift.
+
+	Gestão de Negócios
+	Você será imerso no ecosistema dos e-commerce´s, através do desenvolvimento do plano de negócios para startups, relacionamento com os clientes virtuais, identificação de público alvo e estratégias de negócio.
+
+	Sua própria 	Startup
+	VO Start-Up Brasil, Programa Nacional de Aceleração de Startups, é uma iniciativa do governo federal, criado pelo Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC)
+
+	
+	
+	
+
+**** CONTATO
+	PRESENCIALMENTE
+	CAMPUS VILA OLÍMPIA
+	Endereço: Rua Olimpíadas, 186 - São Paulo/SP.
+	Horário de Atendimento: de segunda a sexta, das 8h às 22h.
+
+	CAMPUS PAULISTA
+	Endereço: Av. Paulista, 1106 - 7º andar - Cerqueira César São Paulo/SP.
+	Horário de Atendimento: de segunda a sexta, das 8h às 21h30min.
+	Aos sábados, das 9h às 12h30.
+
+	CAMPUS ACLIMAÇÃO
+	Endereço: Av. Lins de Vasconcelos, 1222 e 1264 - Aclimação São Paulo/SP.
+	Horário de Atendimento: de segunda a sexta, das 8h às 21h30min.
+
+	CAMPUS ALPHAVILLE
+	Endereço: Alameda Araguaia, 1142 - Bloco 4 - Alphaville Barueri/SP.
+	Horário de Atendimento: de segunda a sexta, das 13h às 22h.
+
+
+	
+***** DISCIPLINAS
+	DESIGN DE SOFTWARE
+	Desenvolver a engenharia de Requisitos (Regras de Negócio e Requisitos de Software), junto a modelagem funcional baseada em Orientação a Objetos com UML, abrangendo as etapas de apoio para o processo (Revisão, Validação, Teste).
+
+	GESTÃO DE NEGÓCIOS PARA WEBSITE
+	Você será imerso no ecosistema dos e-commerce´s, através do desenvolvimento do plano de negócios para startups, relacionamento com os clientes virtuais, identificação de público alvo e estratégias de negócio.
+
+	RESPONSIVE WEB DESIGN
+	Aplicação de Padrões Web, XHTML5 (padrão W3C), CSS, Javascript e sistemas Web centrados em User Experience.
+
+	DOMAIN DRIVEN DESIGN
+	Aplicação do conceito de orientação a objetos em Java (JSE e JEE) que favoreçam a reutilização de código e o mínimo de acoplamento.
+
+	GESTÃO DE PROJETOS
+	Ciclo de vida do projeto e do produto. Gerenciamento de Projetos. Tripla Restrição. Ética e responsabilidade profissional. Técnicas PMI e
+	 Metodologias ágeis (SCRUM).
+	 
+	ESTRATÉGIA E IMPLEMENTAÇÃO DE ESTRUTURAS DE DADOS
+	Elaboração de estratégias para a camada de informação, contemplando desde a modelagem relacional simples a critérios de normalização de dados, implementação de estruturas de dados em bancos de dados relacionais e manipulação utilizando linguagem padrão SQL e Oracle ou MySQL como SGBD.
+
+	USER EXPERIENCE & TOOLKIT PROTOTYPE
+	Desenvolver competências para solução de problemas de forma inovadora e centrada no usuário através de métodos do design thinking e ferramentas para criação de protótipos.
+
+	PENSAMENTO COMPUTACIONAL E APPLICATION SERVER
+	Introdução dos conceitos sobre sistemas operacionais, lógica para programação, servidores de aplicação e web com enfoque prático na implementação de sistemas dinâmicos para a Internet.
