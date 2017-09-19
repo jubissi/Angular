@@ -46,6 +46,19 @@
     text-transform: uppercase;
     margin-bottom: 30px;
 }
+h4 {
+  font-weight: 600;
+}
+.row-eq-height .caption {
+  min-height: 220px;
+}
+.caption.impar {
+  background-color: #EEE;
+}
+.thumbnail img {
+  border: 1px solid #999;
+  border-bottom: 1px solid #DDD;
+}
 .container .jumbotron, .container-fluid .jumbotron {
     border-radius: 0;
     padding: 80px 35px;
@@ -61,4 +74,25 @@
 }
 .thumbnail .caption .impar {
     background-color: #EEE;
+}
+
+/* FOOTER */
+footer {
+  background-color: #400040;
+  padding: 70px;
+  position: relative;
+  bottom: 0px;
+}
+footer p {
+  color: #FFF;
+}
+
+/* ALUNOS */
+.jumbotron .alunos {
+    background-image: url('./assets/img/bannerAlunos.png') !important;
+    height: 215px !important;
+}
+.alunos img {
+  border: 1px solid #CCC;
+  margin-bottom: 30px;
 }
