@@ -1,0 +1,61 @@
+<div class="container">
+    <h1>Formulário</h1>
+    <form (ngSubmit)="onSubmit()" #Forms="ngForm">
+      <div class="form-group">
+        <label for="name">Nome*</label>
+        <input type="text" class="form-control" id="nome" required
+          [(ngModel)]="model.nome" name="nome" #nome="ngModel">
+          <div [hidden]="nome.valid || nome.pristine" class="alert alert-danger">
+            Esta informação é requerida!
+          </div>
+      </div>
+
+      <div class="form-group">
+        <label for="name">E-mail*</label>
+        <input type="text" class="form-control" id="email" required
+          [(ngModel)]="model.email" name="email" #email="ngModel">
+          <div [hidden]="email.valid || email.pristine" class="alert alert-danger">
+            Esta informação é requerida!
+          </div>
+      </div>
+
+      <div class="form-group">
+        <label for="alterEgo">Sexo*</label>
+        <select class="form-control" id="sexo" required>
+          <option *ngFor="let sexo of sexo" [value]="sexo">{{sexo}}</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="alterEgo">Estado*</label>
+        <select class="form-control" id="estado" required>
+          <option *ngFor="let estado of estado" [value]="estado">{{estado}}</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="alterEgo">Cidade</label>
+        <input type="text" class="form-control" id="cidade"
+          [(ngModel)]="model.cidade" name="cidade" #cidade="ngModel">
+      </div>
+
+      <div class="form-group">
+        <label for="alterEgo">Assunto</label>
+        <input type="text" class="form-control" id="assunto"
+          [(ngModel)]="model.assunto" name="assunto" #assunto="ngModel">
+      </div>
+
+      <div class="form-group">
+        <label for="alterEgo">Mensagem*</label>
+        <input type="text" class="form-control" id="mensagem" required
+          [(ngModel)]="model.mensagem" name="mensagem" #mensagem="ngModel">
+          <div [hidden]="mensagem.valid || mensagem.pristine" class="alert alert-danger">
+            Esta informação é requerida!
+          </div>
+      </div>
+
+      <button type="button" class="btn btn-success" (click)="novoForm(); form.reset()">Limpar</button>
+      <button type="submit" class="btn btn-success" [disabled]="!Forms.form.valid">Enviar</button>
+
+    </form>
+</div>
